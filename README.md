@@ -1,6 +1,6 @@
 # CinemaTicket-Blockchain 🎟️🎬🎥
 
-Cinema is an innovative ticketing app that uses blockchain technology to offer you a unique experience. You can select your seat and buy movie tickets at your nearest Cinema Theatre. Using Sepolia's testnet and Solidity's smart contracts, Cinema brings you transparency in every transaction. In addition, ReactJS integration and MetaMask wallet ensure an attractive user interface and secure transactions.
+Cinema is an innovative ticketing app that uses blockchain technology to offer you a unique experience. You can select your seat and buy movie tickets at your nearest Cinema Theatre. Using Sepolia testnet and Solidity smart contracts, Cinema brings you transparency in every transaction. In addition, ReactJS integration and MetaMask wallet ensure an attractive user interface and secure transactions.
 
 
 ## Setting Up
